@@ -19,7 +19,7 @@
         android:layout_marginVertical="5pt"
         android:layout_marginLeft="5pt"
         android:layout_weight="1"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/qw" />
 
     <EditText
         android:id="@+id/editTextTextPersonName"
@@ -39,7 +39,7 @@
         android:layout_marginVertical="5pt"
         android:layout_marginLeft="8pt"
         android:layout_weight="1"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/user" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -48,7 +48,7 @@
         android:layout_marginVertical="5pt"
         android:layout_marginLeft="5pt"
         android:layout_weight="1"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/question" />
 
 
 </LinearLayout>
@@ -81,7 +81,7 @@
             android:layout_marginVertical="5pt"
             android:layout_marginLeft="15pt"
             android:layout_weight="1"
-            tools:srcCompat="@tools:sample/avatars" />
+            tools:srcCompat="@drawable/qw" />
 
         <ImageView
             android:id="@+id/imageView5"
@@ -90,7 +90,7 @@
             android:layout_marginVertical="5pt"
             android:layout_marginLeft="12pt"
             android:layout_weight="1"
-            tools:srcCompat="@drawable/images"
+            tools:srcCompat="@drawable/qw"
 
             />
 
@@ -99,9 +99,9 @@
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginVertical="5pt"
-            android:layout_weight="1"
             android:layout_marginLeft="12pt"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_weight="1"
+            tools:srcCompat="@drawable/qwer" />
     </LinearLayout>
 
     <Button
@@ -132,25 +132,25 @@
             android:layout_marginVertical="5pt"
             android:layout_marginLeft="15pt"
             android:layout_weight="1"
-            tools:srcCompat="@tools:sample/avatars" />
+            tools:srcCompat="@drawable/butterfly" />
 
         <ImageView
             android:id="@+id/imageView8"
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginVertical="5pt"
-            android:layout_weight="1"
             android:layout_marginLeft="12pt"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_weight="1"
+            tools:srcCompat="@drawable/qwer" />
 
         <ImageView
             android:id="@+id/imageView9"
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginVertical="5pt"
-            android:layout_weight="1"
             android:layout_marginLeft="12pt"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_weight="1"
+            tools:srcCompat="@drawable/forest" />
     </LinearLayout>
     <Button
         android:id="@+id/button10"
@@ -168,14 +168,15 @@
         android:layout_marginLeft="8pt"
         android:backgroundTint="#7E7E7E"
         android:text="" />
+
     <ImageView
         android:id="@+id/imageView10"
         android:layout_width="50pt"
         android:layout_height="50pt"
         android:layout_marginVertical="5pt"
-        android:layout_weight="1"
         android:layout_marginLeft="5pt"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_weight="1"
+        tools:srcCompat="@drawable/qwe" />
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
