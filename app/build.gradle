@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.pz7_makarow_pr22_106'
+    namespace 'com.example.pz7_KonukIvan_pr22_106'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.pz7_makarow_pr22_106"
+        applicationId "com.example.pz7_KonukIvan_pr22_106"
         minSdk 30
         targetSdk 33
         versionCode 1

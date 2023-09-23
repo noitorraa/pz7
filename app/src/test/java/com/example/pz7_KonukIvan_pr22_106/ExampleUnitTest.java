@@ -1,4 +1,4 @@
-package com.example.pz7_makarow_pr22_106;
+package com.example.pz7_KonukIvan_pr22_106;
 
 import org.junit.Test;
 
